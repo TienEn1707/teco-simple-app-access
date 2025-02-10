@@ -1,4 +1,4 @@
-# TECO - Simple App Access
+# TECO: Simple App Access
 
 ![TECO](teco.png)
 
