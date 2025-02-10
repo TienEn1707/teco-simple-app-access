@@ -2,14 +2,14 @@
 
 ![TECO](teco.png)
 
-TECO adalah aplikasi yang dirancang untuk membuka aplikasi secara efisien menggunakan perintah yang telah disediakan. Dengan antarmuka yang sederhana dan responsif, TECO membantu meningkatkan produktivitas dalam mengelola berbagai aplikasi.
+TECO is an application designed to open applications efficiently using the commands provided. With a simple and responsive interface, TECO helps increase productivity in managing various applications.
 
-🚀 **Fitur Utama:**
-- Membuka aplikasi dengan cepat menggunakan perintah khusus.
-- Antarmuka sederhana yang mudah digunakan.
+🚀 **Main Features:**
+- Quickly open apps using customized commands.
+- Simple interface that is easy to use.
 
-🔮 **Rencana Pengembangan:**
-- Integrasi dengan AI untuk pengalaman penggunaan yang lebih cerdas.
-- Penambahan fitur input data baru untuk shortcut aplikasi lainnya.
+🔮 **Development Plans:**
+- Integration with AI for smarter usage experience.
+- Addition of new data input features for more app shortcuts.
 
-Jadikan pengalaman menggunakan aplikasi lebih cepat dan efisien dengan **TECO**!
+Make your app experience faster and more efficient with **TECO**!
